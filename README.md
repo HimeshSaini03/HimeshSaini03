@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌌 About Me<br><br>🔭 I’m currently working on<br>→ Building OBSIDYN OS – a custom operating system focused on low-level system design and core OS concepts<br><br>👯 I’m looking to collaborate on<br>→ Projects related to MERN Stack Web Devlpement, AIML project and Developer Tools<br><br>🤝 I’m looking for help with<br>→ Advanced OS internals (memory management, scheduling) and compiler optimizations<br><br>🌱 I’m currently learning<br>→ Operating Systems, Compiler Design, and Low-Level Programming<br><br>💬 Ask me about<br>→ How compilers work, Full stack Web Devlopment and AIML <br><br>⚡ Fun fact<br>→ I enjoy building complex systems from scratch and turning them into simple, visual explanations 🚀
+🌌 About Me<br><br>🔭<br>👯 I’m looking to collaborate on<br>→ Projects related to MERN Stack Web Devlpement, AIML project and Developer Tools<br><br>🤝 I’m looking for help with<br>→ Advanced OS internals (memory management, scheduling) and compiler optimizations<br><br>🌱 I’m currently learning<br>→ Operating Systems, Compiler Design, and Low-Level Programming<br><br>💬 Ask me about<br>→ How compilers work, Full stack Web Devlopment and AIML <br><br>⚡ Fun fact<br>→ I enjoy building complex systems from scratch and turning them into simple, visual explanations 🚀
 
 
 # 💻 Tech Stack:
